@@ -1,0 +1,26 @@
+body {
+    background-color: grey;
+}
+p {
+    background-color: grey;
+    width: 750px;
+    font-size: 25px;
+    margin-left: 100px;
+}
+#InGame {
+    margin-left: 100px;
+}
+#SloganFF {
+    background-color: black;
+    color: yellow;
+    height: 80px;
+    font-size: 50px;
+}
+#QuyDuy {
+    color: yellow;
+    font-size: 40px;
+    margin-left: 100px;
+}
+#imgDuy {
+    margin-left: 250px;
+}
